@@ -64,5 +64,99 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Globe Teleservices Pte. Limited is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://globeteleservices.com
+Globe Teleservices Pte. Limited provides a comprehensive CPaaS platform, GTS CPaaS+, that enables enterprises to integrate SMS, WhatsApp, RCS, email, voice, Messenger, and web chat. Their solutions include flow builder tools, AI-driven chatbots, live agent support, multi-channel OTP verification, and network APIs, empowering seamless communication across travel, finance, and enterprise sectors.
+
+**Areas:** Company · CPaaS · Messaging · Voice · AI
+
+## Globe Teleservices Pte. Limited on APIs.io
+
+Everything profiled for Globe Teleservices Pte. Limited is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/globeteleservices-com/](https://apis.io/providers/globeteleservices-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [CPaaS+ API](https://apis.io/apis/globeteleservices-com/cpaas-api/) — API documentation for Globe Teleservices CPaaS+ platform, covering messaging, voice, and AI features.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Globeteleservices Com Webhooks](https://apis.io/asyncapis/globeteleservices-com/globeteleservices-com-webhooks/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Globe Teleservices Pte. Limited Authentication](https://apis.io/security/globeteleservices-com/globeteleservices-com-authentication/)
+- [Globe Teleservices Pte. Limited Domain Security](https://apis.io/security/globeteleservices-com/globeteleservices-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://globeteleservices.com)
+- [Documentation](https://globeteleservices.mintlify.site/docs)
+- [Getting started](https://globeteleservices.mintlify.site/docs/quickstart)
+- [API reference](https://apidocs.mintlify.site/llms.txt)
+- [Blog](https://globeteleservices.com/blog/)
+- [Terms of service](https://globeteleservices.com/terms-and-services.php)
+- [Privacy policy](https://globeteleservices.com/privacy-policy.php)
+
+## API Evangelist rating
+
+**Kin Score 26.6** — thin · rubric 0.28.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 53.6 |
+| Contract quality | 39.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.1 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 17.0 |
+
+**Agent readiness 28.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 10.9** — Telecommunications
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/globeteleservices-com/](https://apis.io/providers/globeteleservices-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Globe Teleservices Pte. Limited: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/globeteleservices-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
